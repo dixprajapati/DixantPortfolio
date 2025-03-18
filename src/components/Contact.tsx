@@ -22,23 +22,19 @@ export function Contact() {
   }, []);
   const socialLinks = [{
     icon: <Linkedin className="h-5 w-5" />,
-    url: "https://linkedin.com/",
+    url: "www.linkedin.com/in/dixant-pankhaniya-69ba21279",
     label: "LinkedIn"
   }, {
     icon: <Github className="h-5 w-5" />,
-    url: "https://github.com/",
+    url: "https://github.com/dixprajapati",
     label: "GitHub"
   }, {
-    icon: <Twitter className="h-5 w-5" />,
-    url: "https://twitter.com/",
-    label: "Twitter"
-  }, {
     icon: <Facebook className="h-5 w-5" />,
-    url: "https://facebook.com/",
+    url: "https://www.facebook.com/share/18eMJECjte/",
     label: "Facebook"
   }, {
     icon: <Instagram className="h-5 w-5" />,
-    url: "https://instagram.com/",
+    url: "https://www.instagram.com/dixu_rp_1906/",
     label: "Instagram"
   }];
   return <section id="contact" className="py-20 bg-secondary/30 dark:bg-secondary/10 relative overflow-hidden">
