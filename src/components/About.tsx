@@ -37,7 +37,7 @@ export function About() {
           </div>
           
           <div>
-            <h3 className="text-2xl font-semibold mb-4 reveal">Dynamic Web Developer</h3>
+            <h3 className="text-2xl font-semibold mb-4 reveal">Web Developer</h3>
             <p className="text-muted-foreground mb-4 reveal">
               With experience at Green Taurus Technology, I specialize in designing engaging blog post sites and enhancing database functionality. Proficient in HTML, CSS, and JavaScript, I excel in UI/UX design using Figma.
             </p>
@@ -60,7 +60,7 @@ export function About() {
               </div>
               <div className="flex items-center">
                 <div className="w-2 h-2 bg-primary rounded-full mr-2"></div>
-                <span className="text-muted-foreground not-italic"><strong>Location:</strong> Madhav flour mill, gopalpara, nanavav, porbandar</span>
+                <span className="text-muted-foreground not-italic"><strong>Location:</strong> Madhav flour mill, gopalpara, ranavav, porbandar</span>
               </div>
             </div>
             
