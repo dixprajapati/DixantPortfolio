@@ -16,10 +16,6 @@ export function Footer() {
           
           <div className="flex items-center gap-1 text-sm text-muted-foreground">
             <span>© {currentYear} Dixant Pankhaniya. All rights reserved.</span>
-            <span className="inline-flex items-center">
-              <span>Made with</span>
-              <Heart className="h-4 w-4 text-primary mx-1 animate-pulse" />
-            </span>
           </div>
           
           <div className="flex gap-4 text-sm">
