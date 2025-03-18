@@ -25,7 +25,7 @@ export function Education() {
       institution: "Government Engineering College, Dahod",
       degree: "Bachelor of Engineering",
       field: "Computer Engineering",
-      year: "2027 (pursuing)",
+      year: "2027",
       location: "Dahod"
     },
     {
