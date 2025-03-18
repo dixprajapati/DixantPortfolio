@@ -26,7 +26,7 @@ export function Education() {
       degree: "Bachelor of Engineering",
       field: "Computer Engineering",
       year: "2027",
-      "Persuing sem 4",
+      Current: "Persuing",
       location: "Dahod"
     },
     {
