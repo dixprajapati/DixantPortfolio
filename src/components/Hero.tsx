@@ -28,7 +28,7 @@ export function Hero() {
             }`}
           >
             <img 
-              src="/lovable-uploads/517eaffa-1a09-4c07-bf43-f888c3f40ccd.png" 
+              src="/lovable-uploads/Screenshot%202025-03-19%20171949.png" 
               alt="Dixant Pankhaniya" 
               className="w-32 h-32 rounded-full object-cover border-4 border-primary/20 shadow-xl"
             />
