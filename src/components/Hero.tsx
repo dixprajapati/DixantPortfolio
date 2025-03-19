@@ -28,7 +28,7 @@ export function Hero() {
             }`}
           >
             <img 
-              src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthehungryjpeg.com%2Fproduct%2F3656557-monogram-dp-logo-design&psig=AOvVaw1nYATPoot2NWCmAoeij1Tj&ust=1742444547934000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiBsf6llYwDFQAAAAAdAAAAABAJ" 
+              src="/lovable-uploads/517eaffa-1a09-4c07-bf43-f888c3f40ccd.png" 
               alt="Dixant Pankhaniya" 
               className="w-32 h-32 rounded-full object-cover border-4 border-primary/20 shadow-xl"
             />
