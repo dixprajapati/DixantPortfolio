@@ -39,7 +39,7 @@ export function Hero() {
               isLoaded ? "opacity-100" : "opacity-0 transform translate-y-10"
             }`}
           >
-            <span className="text-primary font-medium">D</span>ixant <span className="text-primary font-medium">P</span>ankhaniya
+            Dixant Pankhaniya
           </h1>
           
           <div 
