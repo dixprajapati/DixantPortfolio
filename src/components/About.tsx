@@ -32,7 +32,7 @@ export function About() {
           <div className="reveal">
             <div className="relative">
               <div className="absolute inset-0 bg-primary/10 rounded-2xl transform rotate-3"></div>
-              <img src="/lovable-uploads/517eaffa-1a09-4c07-bf43-f888c3f40ccd.png" alt="Dixant Pankhaniya" className="relative rounded-2xl w-full object-cover shadow-lg z-10" />
+              <img src="/lovable-uploads/WhatsApp%20Image%202025-03-20%20at%2009.21.55_7cb69fe5.jpg" alt="Dixant Pankhaniya" className="relative rounded-2xl w-full object-cover shadow-lg z-10" />
             </div>
           </div>
           
