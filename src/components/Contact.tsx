@@ -73,7 +73,7 @@ export function Contact() {
                 <div>
                   <h4 className="font-medium">Phone</h4>
                   <a href="tel:9723731381" className="text-muted-foreground hover:text-primary transition-colors">
-                    +91 9723731381
+                    +91 7567011287
                   </a>
                 </div>
               </div>
